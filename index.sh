@@ -7,3 +7,5 @@ export NODE_PATH=$NODE_PATH:/usr/local/lib/node_modules
 
 alias yo-iwa-ctrl='yo ionic-wechat-app:controller';
 alias yo-iwa-widget='yo ionic-wechat-app:component';
+
+unset ROOT_PATH;
