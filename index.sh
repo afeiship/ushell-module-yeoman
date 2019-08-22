@@ -6,6 +6,6 @@ ROOT_PATH=$(dirname $BASH_SOURCE);
 export NODE_PATH=$NODE_PATH:/usr/local/lib/node_modules
 
 alias yo-cache='cd $HOME/.cache/node-yeoman-remote-cache';
-alias yo-clean='cd $HOME/.cache/node-yeoman-remote-cache && rm -rf afeiship'
+alias yo-clean='cd $HOME/.cache/node-yeoman-remote-cache && rm -rf afeiship && cd -'
 
 unset ROOT_PATH;
