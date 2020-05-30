@@ -1,6 +1,6 @@
 {
-  "name": "ushell-module-yeoman",
-  "version": "0.0.1",
+  "name": "@feizheng/ushell-module-yeoman",
+  "version": "1.0.0",
   "description": "Unix like shell module for system yeoman.",
   "main": "index.sh",
   "repository": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-yeoman/issues"
   },
-  "homepage": "https://github.com/afeiship/ushell-module-yeoman#readme"
+  "homepage": "https://github.com/afeiship/ushell-module-yeoman#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
