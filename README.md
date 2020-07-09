@@ -21,7 +21,7 @@ Code released under [the MIT license](https://github.com/afeiship/ushell-module-
 [license-url]: https://github.com/afeiship/ushell-module-yeoman/blob/master/LICENSE.txt
 
 [size-image]: https://img.shields.io/bundlephobia/minzip/@feizheng/ushell-module-yeoman
-[size-url]: https://github.com/afeiship/ushell-module-yeoman/blob/master/dist/ushell-module-yeoman.min.js
+[size-url]: https://github.com/afeiship/ushell-module-yeoman/blob/master/index.sh
 
 [download-image]: https://img.shields.io/npm/dm/@feizheng/ushell-module-yeoman
 [download-url]: https://www.npmjs.com/package/@feizheng/ushell-module-yeoman
