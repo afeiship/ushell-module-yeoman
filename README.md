@@ -7,7 +7,7 @@
 
 ## installation
 ```shell
-npm i -S @feizheng/ushell-module-yeoman
+npm i -S @jswork/ushell-module-yeoman
 ```
 
 ## license

@@ -1,5 +1,5 @@
 {
-  "name": "@feizheng/ushell-module-yeoman",
+  "name": "@jswork/ushell-module-yeoman",
   "version": "1.0.0",
   "description": "Unix like shell module for system yeoman.",
   "main": "index.sh",
@@ -8,11 +8,10 @@
     "url": "git+https://github.com/afeiship/ushell-module-yeoman.git"
   },
   "keywords": [
-    "ushell",
     "unix",
     "shell",
-    "system",
-    "infomation"
+    "yeoman",
+    "yo"
   ],
   "author": "afei",
   "license": "MIT",
