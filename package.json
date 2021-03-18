@@ -21,5 +21,11 @@
   "homepage": "https://github.com/afeiship/ushell-module-yeoman#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
+  },
+  "scripts": {
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "release-it": "^14.4.1"
   }
 }
