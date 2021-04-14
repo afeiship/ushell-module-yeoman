@@ -10,6 +10,9 @@ alias yo-clean='cd $HOME/.cache/node-yeoman-remote-cache && rm -rf afeiship && c
 
 # just for learning
 alias yo-clean-x='(cd $HOME/.cache/node-yeoman-remote-cache && rm -rf afeiship)&'
+
+# sync-yo-boilerplate(sybc-cli)
 alias syb='sybc -p -t'
+alias syb-a='sybc -a'
 
 unset ROOT_PATH;
